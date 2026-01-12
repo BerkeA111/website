@@ -1,37 +1,35 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+The devil is in the details. I am **Berke Antar**.
 
-![Astro Paper](public/astropaper-og.jpg)
+I am an Electronics & Communication Engineering student. My work spans a wide spectrum, from hardware-level signals to complex network security protocols.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+I don't just research how systems work; I investigate **how they fail**, how they can be manipulated, and where their boundaries lie.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+### 🏴 The Philosophy
 
-## Features
+> "To be the best locker, you need to be the best picklocker."
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+This is the core principle of my research. True security cannot exist without understanding the offensive perspective. In this lab, I document my journey into the deeper, often overlooked aspects of technology—moving beyond standard documentation to explore edge cases and vulnerabilities.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+### 🛠 Tech Stack & Arsenal
 
-and so much more.
+Tools and technologies I use for research and development:
 
-## Show your support
+* **Cybersecurity:** OPSEC, OSINT, Burp Suite, Wireshark, Metasploit, Reverse Engineering.
+* **Engineering:** Circuit Analysis, FPGA, Micro-controllers (STM32/ESP32), Signal Processing.
+* **Programming:** Python, C/C++, Bash Scripting, JavaScript (Astro/React).
+* **Environment:** Linux (Debian/Arch), MacOS (Unix-based workflows).
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+### 📡 Connect
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+Open for collaboration on deep-tech projects or technical discussions.
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+* **Email:** [b@berkeantar.com](mailto:b@berkeantar.com)
+* **GitHub:** [github.com/berkea111](https://github.com/berkea111)
 
-Kyay zuu! 🙏🏼
+---
+*This lab is a live environment for continuous learning and testing.*
