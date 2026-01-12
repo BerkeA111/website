@@ -1,5 +1,3 @@
-import type { Site, SocialObjects } from "./types";
-
 export const SITE = {
   website: "https://www.berkeantar.com/",
   author: "Berke Antar",
